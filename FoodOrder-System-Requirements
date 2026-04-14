@@ -1,0 +1,17 @@
+# Requirements Specification
+
+## Functional Requirements
+FR01: The system shall allow users to create an account and log in  
+FR02: The system shall display a list of restaurants  
+FR03: The system shall allow users to view menus  
+FR04: The system shall allow users to add items to cart  
+FR05: The system shall allow users to place orders  
+FR06: The system shall allow users to track order status  
+FR07: The system shall allow admin to manage restaurant listings  
+
+## Non-Functional Requirements
+NFR01: The system shall load pages within 3 seconds  
+NFR02: The system shall be available 24/7  
+NFR03: The system shall support at least 200 concurrent users  
+NFR04: The system shall ensure secure payment processing  
+NFR05: The system interface shall be mobile-friendly  
